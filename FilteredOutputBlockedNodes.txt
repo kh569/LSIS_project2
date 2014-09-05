@@ -1,0 +1,965 @@
+Block:0 node:10327 pageRank:1.9868792E-6
+
+Block:1 node:20372 pageRank:5.1655235E-7
+
+Block:10 node:110566 pageRank:1.9040037E-6
+
+Block:11 node:120944 pageRank:1.4593641E-6
+
+Block:12 node:130998 pageRank:2.2407085E-7
+
+Block:13 node:140573 pageRank:5.2936E-7
+
+Block:14 node:150952 pageRank:2.1890456E-7
+
+Block:15 node:161331 pageRank:2.1890456E-7
+
+Block:16 node:171153 pageRank:5.950463E-7
+
+Block:17 node:181513 pageRank:3.546586E-7
+
+Block:18 node:191624 pageRank:5.2627925E-6
+
+Block:19 node:202003 pageRank:4.4331273E-6
+
+Block:2 node:30628 pageRank:3.0988798E-7
+
+Block:20 node:212382 pageRank:4.6699648E-7
+
+Block:21 node:222761 pageRank:0.0017486286
+
+Block:22 node:232592 pageRank:5.0671696E-7
+
+Block:23 node:242877 pageRank:5.665375E-7
+
+Block:24 node:252937 pageRank:2.1890456E-7
+
+Block:25 node:263148 pageRank:3.0364043E-7
+
+Block:26 node:273209 pageRank:2.1890456E-7
+
+Block:27 node:283472 pageRank:2.1890456E-7
+
+Block:28 node:293254 pageRank:2.6666225E-7
+
+Block:29 node:303042 pageRank:5.0928397E-6
+
+Block:3 node:40644 pageRank:2.809275E-7
+
+Block:30 node:313369 pageRank:7.376945E-7
+
+Block:31 node:323521 pageRank:2.1890456E-7
+
+Block:32 node:333882 pageRank:6.7373975E-7
+
+Block:33 node:343662 pageRank:2.8092754E-7
+
+Block:34 node:353644 pageRank:3.1020912E-7
+
+Block:35 node:363928 pageRank:3.5701447E-7
+
+Block:36 node:374235 pageRank:1.4539758E-6
+
+Block:37 node:384553 pageRank:6.3239105E-7
+
+Block:38 node:394928 pageRank:2.4244753E-7
+
+Block:39 node:404711 pageRank:2.4921908E-7
+
+Block:4 node:50461 pageRank:3.0264667E-7
+
+Block:40 node:414616 pageRank:3.121737E-7
+
+Block:41 node:424746 pageRank:5.5530995E-7
+
+Block:42 node:434706 pageRank:2.3877546E-6
+
+Block:43 node:444488 pageRank:4.0191326E-6
+
+Block:44 node:454284 pageRank:5.018739E-7
+
+Block:45 node:464397 pageRank:1.23721675E-5
+
+Block:46 node:474195 pageRank:9.813303E-7
+
+Block:47 node:484049 pageRank:6.126574E-7
+
+Block:48 node:493967 pageRank:2.1890456E-7
+
+Block:49 node:503751 pageRank:4.0327686E-6
+
+Block:5 node:60840 pageRank:2.1890456E-7
+
+Block:50 node:514130 pageRank:6.667857E-7
+
+Block:51 node:524509 pageRank:0.0017297594
+
+Block:52 node:534708 pageRank:1.1192451E-6
+
+Block:53 node:545087 pageRank:0.0013645006
+
+Block:54 node:555466 pageRank:0.0020382423
+
+Block:55 node:565845 pageRank:3.204749E-6
+
+Block:56 node:576224 pageRank:1.2819124E-6
+
+Block:57 node:586603 pageRank:1.0039311E-6
+
+Block:58 node:596584 pageRank:4.0518908E-6
+
+Block:59 node:606366 pageRank:3.429505E-7
+
+Block:6 node:70590 pageRank:3.1250912E-7
+
+Block:60 node:616147 pageRank:8.391343E-7
+
+Block:61 node:626447 pageRank:8.435546E-6
+
+Block:62 node:636239 pageRank:1.0794606E-6
+
+Block:63 node:646021 pageRank:3.11939E-7
+
+Block:64 node:655803 pageRank:2.1890456E-7
+
+Block:65 node:665665 pageRank:9.825266E-7
+
+Block:66 node:675447 pageRank:1.0934306E-6
+
+Block:67 node:685229 pageRank:2.780676E-7
+
+Block:7 node:80117 pageRank:2.1890456E-7
+
+Block:8 node:90496 pageRank:0.0015695652
+
+Block:9 node:100500 pageRank:2.5751595E-7
+
+Residual error for iteration 0: 2.7963
+
+Block:0 node:10327 pageRank:1.8956146E-6
+
+Block:1 node:20372 pageRank:5.161323E-7
+
+Block:10 node:110566 pageRank:1.9904082E-6
+
+Block:11 node:120944 pageRank:4.291258E-7
+
+Block:12 node:130998 pageRank:2.2428362E-7
+
+Block:13 node:140573 pageRank:5.5210484E-7
+
+Block:14 node:150952 pageRank:2.1890456E-7
+
+Block:15 node:161331 pageRank:2.1890456E-7
+
+Block:16 node:171153 pageRank:5.6671894E-7
+
+Block:17 node:181513 pageRank:3.5356345E-7
+
+Block:18 node:191624 pageRank:5.2953983E-6
+
+Block:19 node:202003 pageRank:4.142243E-6
+
+Block:2 node:30628 pageRank:3.0167007E-7
+
+Block:20 node:212382 pageRank:2.6666225E-7
+
+Block:21 node:222761 pageRank:8.828148E-4
+
+Block:22 node:232592 pageRank:1.0428105E-4
+
+Block:23 node:242877 pageRank:5.5790866E-7
+
+Block:24 node:252937 pageRank:2.1890456E-7
+
+Block:25 node:263148 pageRank:3.0360644E-7
+
+Block:26 node:273209 pageRank:2.1890456E-7
+
+Block:27 node:283472 pageRank:2.1890456E-7
+
+Block:28 node:293254 pageRank:2.6180035E-7
+
+Block:29 node:303042 pageRank:4.7484987E-6
+
+Block:3 node:40644 pageRank:2.809275E-7
+
+Block:30 node:313369 pageRank:8.8082146E-7
+
+Block:31 node:323521 pageRank:2.1890456E-7
+
+Block:32 node:333882 pageRank:5.3408553E-7
+
+Block:33 node:343662 pageRank:2.5232816E-7
+
+Block:34 node:353644 pageRank:3.8112356E-7
+
+Block:35 node:363928 pageRank:3.6093004E-7
+
+Block:36 node:374235 pageRank:3.5369576E-6
+
+Block:37 node:384553 pageRank:4.5978578E-7
+
+Block:38 node:394928 pageRank:2.4045355E-7
+
+Block:39 node:404711 pageRank:2.4711332E-7
+
+Block:4 node:50461 pageRank:2.9493447E-7
+
+Block:40 node:414616 pageRank:3.1172252E-7
+
+Block:41 node:424746 pageRank:9.726168E-7
+
+Block:42 node:434706 pageRank:2.3985224E-6
+
+Block:43 node:444488 pageRank:3.9007086E-6
+
+Block:44 node:454284 pageRank:4.9753515E-7
+
+Block:45 node:464397 pageRank:1.1069955E-5
+
+Block:46 node:474195 pageRank:7.3699437E-7
+
+Block:47 node:484049 pageRank:5.831174E-7
+
+Block:48 node:493967 pageRank:2.1890456E-7
+
+Block:49 node:503751 pageRank:6.825518E-6
+
+Block:5 node:60840 pageRank:2.1890456E-7
+
+Block:50 node:514130 pageRank:6.399332E-7
+
+Block:51 node:524509 pageRank:9.784966E-4
+
+Block:52 node:534708 pageRank:2.3622906E-5
+
+Block:53 node:545087 pageRank:8.6136424E-4
+
+Block:54 node:555466 pageRank:0.001168501
+
+Block:55 node:565845 pageRank:1.6795373E-6
+
+Block:56 node:576224 pageRank:1.1241009E-6
+
+Block:57 node:586603 pageRank:9.662817E-7
+
+Block:58 node:596584 pageRank:4.074755E-6
+
+Block:59 node:606366 pageRank:3.512581E-7
+
+Block:6 node:70590 pageRank:3.0036884E-7
+
+Block:60 node:616147 pageRank:5.23655E-7
+
+Block:61 node:626447 pageRank:9.23176E-6
+
+Block:62 node:636239 pageRank:1.0742332E-6
+
+Block:63 node:646021 pageRank:3.11939E-7
+
+Block:64 node:655803 pageRank:2.1890456E-7
+
+Block:65 node:665665 pageRank:9.943429E-7
+
+Block:66 node:675447 pageRank:1.0952499E-6
+
+Block:67 node:685229 pageRank:3.5206733E-7
+
+Block:7 node:80117 pageRank:2.1890456E-7
+
+Block:8 node:90496 pageRank:7.163987E-4
+
+Block:9 node:100500 pageRank:2.575983E-7
+
+Residual error for iteration 1: 0.0507
+
+Block:0 node:10327 pageRank:1.8791251E-6
+
+Block:1 node:20372 pageRank:5.1605315E-7
+
+Block:10 node:110566 pageRank:2.022134E-6
+
+Block:11 node:120944 pageRank:4.3013367E-7
+
+Block:12 node:130998 pageRank:2.4029623E-7
+
+Block:13 node:140573 pageRank:6.241508E-7
+
+Block:14 node:150952 pageRank:2.1890456E-7
+
+Block:15 node:161331 pageRank:2.1890456E-7
+
+Block:16 node:171153 pageRank:5.6453456E-7
+
+Block:17 node:181513 pageRank:3.5354196E-7
+
+Block:18 node:191624 pageRank:5.277778E-6
+
+Block:19 node:202003 pageRank:4.1114026E-6
+
+Block:2 node:30628 pageRank:3.0176565E-7
+
+Block:20 node:212382 pageRank:2.6180035E-7
+
+Block:21 node:222761 pageRank:0.0012584579
+
+Block:22 node:232592 pageRank:5.2941567E-5
+
+Block:23 node:242877 pageRank:5.5539914E-7
+
+Block:24 node:252937 pageRank:2.1890456E-7
+
+Block:25 node:263148 pageRank:3.0360542E-7
+
+Block:26 node:273209 pageRank:2.1890456E-7
+
+Block:27 node:283472 pageRank:2.1890456E-7
+
+Block:28 node:293254 pageRank:2.616963E-7
+
+Block:29 node:303042 pageRank:4.812817E-6
+
+Block:3 node:40644 pageRank:2.809275E-7
+
+Block:30 node:313369 pageRank:8.645971E-7
+
+Block:31 node:323521 pageRank:2.1890456E-7
+
+Block:32 node:333882 pageRank:5.163379E-7
+
+Block:33 node:343662 pageRank:2.5171605E-7
+
+Block:34 node:353644 pageRank:3.864965E-7
+
+Block:35 node:363928 pageRank:3.6089384E-7
+
+Block:36 node:374235 pageRank:3.6994056E-6
+
+Block:37 node:384553 pageRank:4.180293E-7
+
+Block:38 node:394928 pageRank:2.40011E-7
+
+Block:39 node:404711 pageRank:2.467841E-7
+
+Block:4 node:50461 pageRank:2.9503008E-7
+
+Block:40 node:414616 pageRank:3.1168145E-7
+
+Block:41 node:424746 pageRank:1.5567529E-6
+
+Block:42 node:434706 pageRank:2.412968E-6
+
+Block:43 node:444488 pageRank:3.83108E-6
+
+Block:44 node:454284 pageRank:4.975225E-7
+
+Block:45 node:464397 pageRank:1.1557882E-5
+
+Block:46 node:474195 pageRank:7.30481E-7
+
+Block:47 node:484049 pageRank:5.869944E-7
+
+Block:48 node:493967 pageRank:2.1890456E-7
+
+Block:49 node:503751 pageRank:6.423453E-6
+
+Block:5 node:60840 pageRank:2.1890456E-7
+
+Block:50 node:514130 pageRank:6.3963364E-7
+
+Block:51 node:524509 pageRank:9.874076E-4
+
+Block:52 node:534708 pageRank:1.9962466E-5
+
+Block:53 node:545087 pageRank:0.0025618891
+
+Block:54 node:555466 pageRank:0.0011865335
+
+Block:55 node:565845 pageRank:1.6551031E-6
+
+Block:56 node:576224 pageRank:1.1103099E-6
+
+Block:57 node:586603 pageRank:9.592043E-7
+
+Block:58 node:596584 pageRank:4.027772E-6
+
+Block:59 node:606366 pageRank:4.626686E-7
+
+Block:6 node:70590 pageRank:3.0032106E-7
+
+Block:60 node:616147 pageRank:6.477979E-7
+
+Block:61 node:626447 pageRank:1.6361297E-5
+
+Block:62 node:636239 pageRank:1.0728218E-6
+
+Block:63 node:646021 pageRank:3.11939E-7
+
+Block:64 node:655803 pageRank:2.1890456E-7
+
+Block:65 node:665665 pageRank:9.953959E-7
+
+Block:66 node:675447 pageRank:1.0981645E-6
+
+Block:67 node:685229 pageRank:3.5126845E-7
+
+Block:7 node:80117 pageRank:2.1890456E-7
+
+Block:8 node:90496 pageRank:8.527149E-4
+
+Block:9 node:100500 pageRank:2.6024293E-7
+
+Residual error for iteration 2: 0.0240
+
+Block:0 node:10327 pageRank:1.8752373E-6
+
+Block:1 node:20372 pageRank:5.1604053E-7
+
+Block:10 node:110566 pageRank:2.025213E-6
+
+Block:11 node:120944 pageRank:5.049798E-7
+
+Block:12 node:130998 pageRank:2.3315424E-7
+
+Block:13 node:140573 pageRank:6.067733E-7
+
+Block:14 node:150952 pageRank:2.1890456E-7
+
+Block:15 node:161331 pageRank:2.1890456E-7
+
+Block:16 node:171153 pageRank:5.6340724E-7
+
+Block:17 node:181513 pageRank:3.534684E-7
+
+Block:18 node:191624 pageRank:5.2776763E-6
+
+Block:19 node:202003 pageRank:4.085287E-6
+
+Block:2 node:30628 pageRank:3.088668E-7
+
+Block:20 node:212382 pageRank:2.616963E-7
+
+Block:21 node:222761 pageRank:0.0010682836
+
+Block:22 node:232592 pageRank:1.1947802E-4
+
+Block:23 node:242877 pageRank:5.5442587E-7
+
+Block:24 node:252937 pageRank:2.1890456E-7
+
+Block:25 node:263148 pageRank:3.0360542E-7
+
+Block:26 node:273209 pageRank:2.1890456E-7
+
+Block:27 node:283472 pageRank:2.1890456E-7
+
+Block:28 node:293254 pageRank:2.616926E-7
+
+Block:29 node:303042 pageRank:4.8065876E-6
+
+Block:3 node:40644 pageRank:2.809275E-7
+
+Block:30 node:313369 pageRank:8.802239E-7
+
+Block:31 node:323521 pageRank:2.1890456E-7
+
+Block:32 node:333882 pageRank:5.1570936E-7
+
+Block:33 node:343662 pageRank:2.516944E-7
+
+Block:34 node:353644 pageRank:3.9741116E-7
+
+Block:35 node:363928 pageRank:3.6077842E-7
+
+Block:36 node:374235 pageRank:3.7544587E-6
+
+Block:37 node:384553 pageRank:4.1487613E-7
+
+Block:38 node:394928 pageRank:2.399819E-7
+
+Block:39 node:404711 pageRank:2.467279E-7
+
+Block:4 node:50461 pageRank:3.0213124E-7
+
+Block:40 node:414616 pageRank:3.117505E-7
+
+Block:41 node:424746 pageRank:1.6006696E-6
+
+Block:42 node:434706 pageRank:2.4148549E-6
+
+Block:43 node:444488 pageRank:3.820389E-6
+
+Block:44 node:454284 pageRank:4.9751816E-7
+
+Block:45 node:464397 pageRank:1.1593304E-5
+
+Block:46 node:474195 pageRank:7.291521E-7
+
+Block:47 node:484049 pageRank:5.8588586E-7
+
+Block:48 node:493967 pageRank:2.1890456E-7
+
+Block:49 node:503751 pageRank:6.859549E-6
+
+Block:5 node:60840 pageRank:2.1890456E-7
+
+Block:50 node:514130 pageRank:6.396273E-7
+
+Block:51 node:524509 pageRank:9.812372E-4
+
+Block:52 node:534708 pageRank:2.5314463E-5
+
+Block:53 node:545087 pageRank:0.0021442324
+
+Block:54 node:555466 pageRank:0.0011734505
+
+Block:55 node:565845 pageRank:1.6414864E-6
+
+Block:56 node:576224 pageRank:1.1098373E-6
+
+Block:57 node:586603 pageRank:9.587691E-7
+
+Block:58 node:596584 pageRank:4.011336E-6
+
+Block:59 node:606366 pageRank:4.3029445E-7
+
+Block:6 node:70590 pageRank:3.0031268E-7
+
+Block:60 node:616147 pageRank:5.884088E-7
+
+Block:61 node:626447 pageRank:1.6316075E-5
+
+Block:62 node:636239 pageRank:1.0725772E-6
+
+Block:63 node:646021 pageRank:3.11939E-7
+
+Block:64 node:655803 pageRank:2.1890456E-7
+
+Block:65 node:665665 pageRank:9.960852E-7
+
+Block:66 node:675447 pageRank:1.0990476E-6
+
+Block:67 node:685229 pageRank:3.564542E-7
+
+Block:7 node:80117 pageRank:2.1890456E-7
+
+Block:8 node:90496 pageRank:8.781628E-4
+
+Block:9 node:100500 pageRank:2.5929404E-7
+
+Residual error for iteration 3: 0.0097
+
+Block:0 node:10327 pageRank:1.8745799E-6
+
+Block:1 node:20372 pageRank:5.160337E-7
+
+Block:10 node:110566 pageRank:2.0255272E-6
+
+Block:11 node:120944 pageRank:4.7158323E-7
+
+Block:12 node:130998 pageRank:2.3546795E-7
+
+Block:13 node:140573 pageRank:6.2325546E-7
+
+Block:14 node:150952 pageRank:2.1890456E-7
+
+Block:15 node:161331 pageRank:2.1890456E-7
+
+Block:16 node:171153 pageRank:5.6282545E-7
+
+Block:17 node:181513 pageRank:3.5345232E-7
+
+Block:18 node:191624 pageRank:5.277537E-6
+
+Block:19 node:202003 pageRank:4.0851924E-6
+
+Block:2 node:30628 pageRank:3.0569825E-7
+
+Block:20 node:212382 pageRank:2.616926E-7
+
+Block:21 node:222761 pageRank:0.0012292527
+
+Block:22 node:232592 pageRank:8.637179E-5
+
+Block:23 node:242877 pageRank:5.5450323E-7
+
+Block:24 node:252937 pageRank:2.1890456E-7
+
+Block:25 node:263148 pageRank:3.0360542E-7
+
+Block:26 node:273209 pageRank:2.1890456E-7
+
+Block:27 node:283472 pageRank:2.1890456E-7
+
+Block:28 node:293254 pageRank:2.616925E-7
+
+Block:29 node:303042 pageRank:4.8075626E-6
+
+Block:3 node:40644 pageRank:2.809275E-7
+
+Block:30 node:313369 pageRank:8.8568265E-7
+
+Block:31 node:323521 pageRank:2.1890456E-7
+
+Block:32 node:333882 pageRank:5.156823E-7
+
+Block:33 node:343662 pageRank:2.5169373E-7
+
+Block:34 node:353644 pageRank:3.9895536E-7
+
+Block:35 node:363928 pageRank:3.6070566E-7
+
+Block:36 node:374235 pageRank:3.791501E-6
+
+Block:37 node:384553 pageRank:4.1423547E-7
+
+Block:38 node:394928 pageRank:2.3995992E-7
+
+Block:39 node:404711 pageRank:2.46687E-7
+
+Block:4 node:50461 pageRank:2.9896268E-7
+
+Block:40 node:414616 pageRank:3.1175665E-7
+
+Block:41 node:424746 pageRank:1.6905924E-6
+
+Block:42 node:434706 pageRank:2.416745E-6
+
+Block:43 node:444488 pageRank:3.817289E-6
+
+Block:44 node:454284 pageRank:4.975167E-7
+
+Block:45 node:464397 pageRank:1.1459874E-5
+
+Block:46 node:474195 pageRank:7.293288E-7
+
+Block:47 node:484049 pageRank:5.8616394E-7
+
+Block:48 node:493967 pageRank:2.1890456E-7
+
+Block:49 node:503751 pageRank:6.9802873E-6
+
+Block:5 node:60840 pageRank:2.1890456E-7
+
+Block:50 node:514130 pageRank:6.396266E-7
+
+Block:51 node:524509 pageRank:9.833438E-4
+
+Block:52 node:534708 pageRank:2.370777E-5
+
+Block:53 node:545087 pageRank:0.0025680554
+
+Block:54 node:555466 pageRank:0.0011756924
+
+Block:55 node:565845 pageRank:1.6407886E-6
+
+Block:56 node:576224 pageRank:1.1079791E-6
+
+Block:57 node:586603 pageRank:9.585618E-7
+
+Block:58 node:596584 pageRank:4.0021264E-6
+
+Block:59 node:606366 pageRank:4.2792922E-7
+
+Block:6 node:70590 pageRank:3.0031123E-7
+
+Block:60 node:616147 pageRank:6.1595426E-7
+
+Block:61 node:626447 pageRank:1.7055996E-5
+
+Block:62 node:636239 pageRank:1.0723995E-6
+
+Block:63 node:646021 pageRank:3.11939E-7
+
+Block:64 node:655803 pageRank:2.1890456E-7
+
+Block:65 node:665665 pageRank:9.965312E-7
+
+Block:66 node:675447 pageRank:1.0992077E-6
+
+Block:67 node:685229 pageRank:3.5696996E-7
+
+Block:7 node:80117 pageRank:2.1890456E-7
+
+Block:8 node:90496 pageRank:8.630608E-4
+
+Block:9 node:100500 pageRank:2.5971562E-7
+
+Residual error for iteration 4: 0.0044
+
+Block:0 node:10327 pageRank:1.8741034E-6
+
+Block:1 node:20372 pageRank:5.1602944E-7
+
+Block:10 node:110566 pageRank:2.0255598E-6
+
+Block:11 node:120944 pageRank:4.8254964E-7
+
+Block:12 node:130998 pageRank:2.3549839E-7
+
+Block:13 node:140573 pageRank:6.227334E-7
+
+Block:14 node:150952 pageRank:2.1890456E-7
+
+Block:15 node:161331 pageRank:2.1890456E-7
+
+Block:16 node:171153 pageRank:5.6282545E-7
+
+Block:17 node:181513 pageRank:3.534421E-7
+
+Block:18 node:191624 pageRank:5.2775235E-6
+
+Block:19 node:202003 pageRank:4.082444E-6
+
+Block:2 node:30628 pageRank:3.0673868E-7
+
+Block:20 node:212382 pageRank:2.616925E-7
+
+Block:21 node:222761 pageRank:0.0011563264
+
+Block:22 node:232592 pageRank:1.166717E-4
+
+Block:23 node:242877 pageRank:5.5483036E-7
+
+Block:24 node:252937 pageRank:2.1890456E-7
+
+Block:25 node:263148 pageRank:3.0360542E-7
+
+Block:26 node:273209 pageRank:2.1890456E-7
+
+Block:27 node:283472 pageRank:2.1890456E-7
+
+Block:28 node:293254 pageRank:2.616925E-7
+
+Block:29 node:303042 pageRank:4.80749E-6
+
+Block:3 node:40644 pageRank:2.809275E-7
+
+Block:30 node:313369 pageRank:8.895475E-7
+
+Block:31 node:323521 pageRank:2.1890456E-7
+
+Block:32 node:333882 pageRank:5.156811E-7
+
+Block:33 node:343662 pageRank:2.5169368E-7
+
+Block:34 node:353644 pageRank:4.0018517E-7
+
+Block:35 node:363928 pageRank:3.606633E-7
+
+Block:36 node:374235 pageRank:3.8172284E-6
+
+Block:37 node:384553 pageRank:4.1403612E-7
+
+Block:38 node:394928 pageRank:2.3994423E-7
+
+Block:39 node:404711 pageRank:2.4665715E-7
+
+Block:4 node:50461 pageRank:3.0000314E-7
+
+Block:40 node:414616 pageRank:3.1175423E-7
+
+Block:41 node:424746 pageRank:1.7032459E-6
+
+Block:42 node:434706 pageRank:2.4179938E-6
+
+Block:43 node:444488 pageRank:3.8163485E-6
+
+Block:44 node:454284 pageRank:4.975162E-7
+
+Block:45 node:464397 pageRank:1.1565785E-5
+
+Block:46 node:474195 pageRank:7.293132E-7
+
+Block:47 node:484049 pageRank:5.863594E-7
+
+Block:48 node:493967 pageRank:2.1890456E-7
+
+Block:49 node:503751 pageRank:7.074405E-6
+
+Block:5 node:60840 pageRank:2.1890456E-7
+
+Block:50 node:514130 pageRank:6.396263E-7
+
+Block:51 node:524509 pageRank:9.829332E-4
+
+Block:52 node:534708 pageRank:2.5734622E-5
+
+Block:53 node:545087 pageRank:0.0024197847
+
+Block:54 node:555466 pageRank:0.0011740715
+
+Block:55 node:565845 pageRank:1.6406323E-6
+
+Block:56 node:576224 pageRank:1.1076509E-6
+
+Block:57 node:586603 pageRank:9.585691E-7
+
+Block:58 node:596584 pageRank:3.9992783E-6
+
+Block:59 node:606366 pageRank:4.279893E-7
+
+Block:6 node:70590 pageRank:3.0030986E-7
+
+Block:60 node:616147 pageRank:6.073126E-7
+
+Block:61 node:626447 pageRank:1.7342454E-5
+
+Block:62 node:636239 pageRank:1.0722708E-6
+
+Block:63 node:646021 pageRank:3.11939E-7
+
+Block:64 node:655803 pageRank:2.1890456E-7
+
+Block:65 node:665665 pageRank:9.968172E-7
+
+Block:66 node:675447 pageRank:1.099326E-6
+
+Block:67 node:685229 pageRank:3.5696894E-7
+
+Block:7 node:80117 pageRank:2.1890456E-7
+
+Block:8 node:90496 pageRank:8.701611E-4
+
+Block:9 node:100500 pageRank:2.59716E-7
+
+Residual error for iteration 5: 0.0016
+
+Block:0 node:10327 pageRank:1.8737583E-6
+
+Block:1 node:20372 pageRank:5.160272E-7
+
+Block:10 node:110566 pageRank:2.02557E-6
+
+Block:11 node:120944 pageRank:4.8254964E-7
+
+Block:12 node:130998 pageRank:2.3450572E-7
+
+Block:13 node:140573 pageRank:6.2569603E-7
+
+Block:14 node:150952 pageRank:2.1890456E-7
+
+Block:15 node:161331 pageRank:2.1890456E-7
+
+Block:16 node:171153 pageRank:5.624633E-7
+
+Block:17 node:181513 pageRank:3.5343797E-7
+
+Block:18 node:191624 pageRank:5.2775167E-6
+
+Block:19 node:202003 pageRank:4.081723E-6
+
+Block:2 node:30628 pageRank:3.062679E-7
+
+Block:20 node:212382 pageRank:2.616925E-7
+
+Block:21 node:222761 pageRank:0.0012090052
+
+Block:22 node:232592 pageRank:1.0455933E-4
+
+Block:23 node:242877 pageRank:5.5511344E-7
+
+Block:24 node:252937 pageRank:2.1890456E-7
+
+Block:25 node:263148 pageRank:3.0360542E-7
+
+Block:26 node:273209 pageRank:2.1890456E-7
+
+Block:27 node:283472 pageRank:2.1890456E-7
+
+Block:28 node:293254 pageRank:2.616925E-7
+
+Block:29 node:303042 pageRank:4.807503E-6
+
+Block:3 node:40644 pageRank:2.809275E-7
+
+Block:30 node:313369 pageRank:8.9155174E-7
+
+Block:31 node:323521 pageRank:2.1890456E-7
+
+Block:32 node:333882 pageRank:5.156811E-7
+
+Block:33 node:343662 pageRank:2.5169368E-7
+
+Block:34 node:353644 pageRank:4.0106463E-7
+
+Block:35 node:363928 pageRank:3.606392E-7
+
+Block:36 node:374235 pageRank:3.835124E-6
+
+Block:37 node:384553 pageRank:4.1395913E-7
+
+Block:38 node:394928 pageRank:2.399331E-7
+
+Block:39 node:404711 pageRank:2.4663547E-7
+
+Block:4 node:50461 pageRank:2.9953236E-7
+
+Block:40 node:414616 pageRank:3.1175063E-7
+
+Block:41 node:424746 pageRank:1.7133412E-6
+
+Block:42 node:434706 pageRank:2.418378E-6
+
+Block:43 node:444488 pageRank:3.815668E-6
+
+Block:44 node:454284 pageRank:4.9751606E-7
+
+Block:45 node:464397 pageRank:1.1567655E-5
+
+Block:46 node:474195 pageRank:7.2928765E-7
+
+Block:47 node:484049 pageRank:5.864941E-7
+
+Block:48 node:493967 pageRank:2.1890456E-7
+
+Block:49 node:503751 pageRank:7.1029467E-6
+
+Block:5 node:60840 pageRank:2.1890456E-7
+
+Block:50 node:514130 pageRank:6.396262E-7
+
+Block:51 node:524509 pageRank:9.837804E-4
+
+Block:52 node:534708 pageRank:2.554676E-5
+
+Block:53 node:545087 pageRank:0.00257394
+
+Block:54 node:555466 pageRank:0.0011760158
+
+Block:55 node:565845 pageRank:1.6405522E-6
+
+Block:56 node:576224 pageRank:1.1074403E-6
+
+Block:57 node:586603 pageRank:9.585757E-7
+
+Block:58 node:596584 pageRank:3.9971683E-6
+
+Block:59 node:606366 pageRank:4.2811098E-7
+
+Block:6 node:70590 pageRank:3.0031399E-7
+
+Block:60 node:616147 pageRank:6.10155E-7
+
+Block:61 node:626447 pageRank:1.759694E-5
+
+Block:62 node:636239 pageRank:1.0721776E-6
+
+Block:63 node:646021 pageRank:3.11939E-7
+
+Block:64 node:655803 pageRank:2.1890456E-7
+
+Block:65 node:665665 pageRank:9.969974E-7
+
+Block:66 node:675447 pageRank:1.0994132E-6
+
+Block:67 node:685229 pageRank:3.5826088E-7
+
+Block:7 node:80117 pageRank:2.1890456E-7
+
+Block:8 node:90496 pageRank:8.677675E-4
+
+Block:9 node:100500 pageRank:2.5972977E-7
+
+Residual error for iteration 6: 0.0006

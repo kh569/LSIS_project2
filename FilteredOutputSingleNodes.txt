@@ -1,0 +1,12 @@
+Residual error for iteration 0: 2.3370
+
+Residual error for iteration 1: 0.3229
+
+Residual error for iteration 2: 0.1921
+
+Residual error for iteration 3: 0.0941
+
+Residual error for iteration 4: 0.0628
+
+Residual error for iteration 5: 0.0339
+
